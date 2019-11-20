@@ -1,0 +1,21 @@
+div {
+    margin: 0;
+    padding: 0;
+    border: 0;    
+}
+#container {
+    left: 10px;
+    top: 50px;
+    height: 400px;
+    width: 400px;
+    background-color: lightsteelblue;
+}
+#box {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: absolute;
+}
+#buttons{
+    margin-bottom: 10px;
+}
